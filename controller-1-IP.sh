@@ -1,4 +1,5 @@
 #!/bin/bash -ex
+#
 source config.cfg
 
 ifaces=/etc/network/interfaces
